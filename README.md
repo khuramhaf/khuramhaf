@@ -1,2 +1,2 @@
 HI I am Khuram Hafeez.
-I am a fullstack developer. I love to develop modern user interfaces for the web.
+I am a fullstack developer. I love to develop modern user interfaces for the web.If you are looking for an exprienced developer then I may not be a suitable person for you but if you are looking for the person who understand the basic principles of React.js and Angular development then I am the right person for you because I know the fundamentals of frontend development and I also know what problem React.js, and other frontend framework and libraries are solving.
