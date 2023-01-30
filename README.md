@@ -1,1 +1,1 @@
-HI I am Khuram Hafeez. I am a fullstack developer with a degree in Economics. I try to understand the depth of technology, combining my knowledge of economics and computer science to find problems and try to find solutions. My current research interest is on virtual assistant tecnology.
+HI I am Khuram Hafeez. I am a fullstack developer with a degree in Economics. I try to understand the depth of technology, combining my knowledge of economics and computer science to find problems and try to find solutions. My current research interest is on virtual assistant technology.
